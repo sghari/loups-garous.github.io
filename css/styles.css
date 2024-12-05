@@ -443,3 +443,7 @@ input[type="text"]::placeholder {
 ::-webkit-scrollbar-thumb:hover {
     background: #a00000;
 }
+
+#role-distribution {
+    display: none;
+}
